@@ -24,7 +24,7 @@ def logIds(iDs):
             File.write('%s\n' % iD)
     File.close()
                        
-def linkLaunch(iDs):
+def linkLaunch(iDs): # for debug reasons, therefore the internal import
     import webbrowser
     
     pattern = 'https://www.youtube.com/watch?v=%s'
