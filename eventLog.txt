@@ -1,2 +1,3 @@
 - iteration 1207 length of iDs reduced to one
 - iteration 1281 long pause, stuck here
+- turns out program was stuck at iteration 1281 because it was an age restricted video
